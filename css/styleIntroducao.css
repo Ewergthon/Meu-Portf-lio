@@ -1,0 +1,22 @@
+.minhaFoto{
+    width: 300px;
+    height: 400px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.main{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    max-width: 1200px;
+}
+
+.org{
+    margin-top: 100px;
+    margin-left: 5%;
+}
+
+.localizacao{
+    width: 15px;
+    height: 15px;
+}

@@ -1,0 +1,40 @@
+.grid-div2{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    background: rgb(41, 40, 40);
+    max-width: 1200px;
+}
+
+.nome-quebra{
+    font-size: 150px;
+    font-family: Arial;
+    word-break: break-all;
+    color: rgba(0, 0, 0, 0.651);
+}
+
+.formacoes{
+   margin-top: 150px; 
+}
+
+.mestre{
+    width: 20px;
+    height: 5px;
+}
+
+.branco{
+    color: white;
+    margin-left: 10px;
+}
+
+.graduacao-unit{
+    background: black;
+    border-radius: 10px;
+    width: 600px;
+    height: 130px;
+    padding: 5px;
+}
+
+.branco1{
+    color: rgb(187, 184, 184);
+    margin-left: 10px;
+}

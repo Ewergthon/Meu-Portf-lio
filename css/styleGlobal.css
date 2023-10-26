@@ -1,0 +1,8 @@
+body{
+    display: grid;
+    margin: 0px;
+    padding: 10px;
+    background: rgb(255, 255, 255);
+    justify-content: center;
+    font-family: Arial;
+}

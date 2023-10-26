@@ -1,0 +1,30 @@
+.grid-contato{
+    display: flex;
+    grid-template-columns: 1fr 1fr;
+    background: rgb(7, 7, 7);
+}
+
+.conjunto-contato, .meusContatos{
+    color: white;
+}
+
+.mao{
+    width: 30px;
+    height: 30px;
+}
+
+.meusContatos{
+    margin-left: 50px;
+}
+
+.conjunto-contato{
+    width: 500px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.direitos{
+    color: rgb(187, 184, 184);
+    font-size: 15px;
+    margin-top: 50px;
+}
